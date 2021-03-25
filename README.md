@@ -1,6 +1,9 @@
 # Welcome to my GitHub profile!
 
-Please pardon the dust as I'm just beginning to prepare my profile for public consumption. 
+Please pardon the dust as I'm just beginning to prepare my profile for public consumption. I'm Colin Davey. You can find me on LinkedIn [here](https://www.linkedin.com/in/colinmdavey/), and my website at [https://www.colindavey.com]. 
+
+
+my website is colindavey.com
 
 What I'm most excited about these days are some projects I'm working on to improve and display my React and Python skills by developing some chess software. Related to this are:
 
