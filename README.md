@@ -24,13 +24,13 @@ I then began working on creating a web-based version using React in the followin
 
 - [react-tic-tac-toe-to-chess](https://github.com/colindavey/react-tic-tac-toe-to-chess) - continuing from the NxN tic-tac-toe app above, this is a mostly fully functional chess app. Presents a GUI, lets you make moves, only allows legal moves, the GUI includes a listing, and you can click on any move to return to the position. This has been absorbed into the chess monorepo above. 
 
-I am currently working out how to create the tree widget in React that I need for the full opening repertoire editor, after which I will add the opening-repertoire editor app to the monorepo. You can see a super early proof-of-concept/work-in-progress [here](https://github.com/colindavey/tree-play)
+I am currently working out how to create the tree widget in React that I need for the full opening repertoire editor, after which I will add the opening-repertoire editor app to the monorepo. You can see a super early proof-of-concept/work-in-progress [here](https://github.com/colindavey/tree-play).
 
 <img src="https://github.com/colindavey/colindavey/blob/main/images/tree-play.png" width="300"/>
 
 Cheers,
 
--- C
+Colin
 
 <!--
 ### Hi there 👋
