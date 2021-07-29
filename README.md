@@ -3,8 +3,9 @@
 Greetings! I'm Colin Davey. You can find me on LinkedIn [here](https://www.linkedin.com/in/colinmdavey/), and my website at [colindavey.com](https://www.colindavey.com). 
 
 The project I'm most excited about these days is my chess monorepo, for developing a family of web-based chess apps that share components. 
+[chess-monorepo](https://github.com/colindavey/chess-monorepo)
 
-[py-chess-tree-two-week-challenge](https://github.com/colindavey/py-chess-tree-two-week-challenge)
+<img src="https://github.com/colindavey/colindavey/blob/master/images/chessMonorepoDiagram.jpg" width="600"/>
 
 I'd also like to discuss the background to this project because it shows how I learn and solve problems. It began for the purpose of improving and displaying my React and Python skills. I chose chess software as the vehicle. Related to this are:
 
