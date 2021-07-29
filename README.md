@@ -1,8 +1,12 @@
 # Welcome to my GitHub profile!
 
-Please pardon the dust as I'm just beginning to prepare my GitHub profile for public consumption. I'm Colin Davey. You can find me on LinkedIn [here](https://www.linkedin.com/in/colinmdavey/), and my website at [colindavey.com](https://www.colindavey.com). 
+Greetings! I'm Colin Davey. You can find me on LinkedIn [here](https://www.linkedin.com/in/colinmdavey/), and my website at [colindavey.com](https://www.colindavey.com). 
 
-What I'm most excited about these days are some projects I'm working on to improve and display my React and Python skills by developing some chess software. Related to this are:
+The project I'm most excited about these days is my chess monorepo, for developing a family of web-based chess apps that share components. 
+
+[py-chess-tree-two-week-challenge](https://github.com/colindavey/py-chess-tree-two-week-challenge)
+
+I'd also like to discuss the background to this project because it shows how I learn and solve problems. It began for the purpose of improving and displaying my React and Python skills. I chose chess software as the vehicle. Related to this are:
 
 [py-chess-tree-two-week-challenge](https://github.com/colindavey/py-chess-tree-two-week-challenge) - a fully functional chess opening repertoire editor that I wrote in Python in two weeks in 2016, when I hadn't had any Python experience. It was a challenge I assigned to myself to force myself to learn Python fast, and to demonstrate that I could be effective in languages that were new to me. 
 
