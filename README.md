@@ -2,7 +2,7 @@
 
 Greetings! I'm Colin Davey. You can find me on LinkedIn [here](https://www.linkedin.com/in/colinmdavey/), and my website at [colindavey.com](https://www.colindavey.com). 
 
-The project I'm most excited about these days is my [chess monorepo](https://github.com/colindavey/chess-monorepo) for developing a family of web-based chess apps that share components. (See the game app live [here](https://colindavey-chess-monorepo-game.netlify.app). See the setup app live [here](https://colindavey-chess-monorepo-setup.netlify.app).)
+The project I'm most excited about these days is my React-based [chess monorepo](https://github.com/colindavey/chess-monorepo) for developing a family of web-based chess apps that share components. (See the game app live [here](https://colindavey-chess-monorepo-game.netlify.app). See the setup app live [here](https://colindavey-chess-monorepo-setup.netlify.app).)
 
 <img src="https://github.com/colindavey/colindavey/blob/main/images/chessMonorepoDiagram.jpg" width="600"/>
 
