@@ -6,7 +6,7 @@ The project I'm most excited about these days is my [chess monorepo](https://git
 
 <img src="https://github.com/colindavey/colindavey/blob/main/images/chessMonorepoDiagram.jpg" width="600"/>
 
-I'd also like to discuss the background to this project because it shows how I learn and solve problems. It began for the purpose of improving and displaying my React and Python skills. I chose chess software as the vehicle. Related to this are:
+I'd also like to discuss the background to this project because it shows how I learn and solve problems. It began for the purpose of improving and displaying my React and Python skills. I chose chess software as the vehicle. 
 
 It began as [py-chess-tree-two-week-challenge](https://github.com/colindavey/py-chess-tree-two-week-challenge) - a fully functional chess opening repertoire editor that I wrote in Python in two weeks in 2016, when I hadn't had any Python experience. It was a challenge I assigned to myself to force myself to learn Python fast, and to demonstrate that I could be effective in languages that were new to me. [py-chess-tree](https://github.com/colindavey/py-chess-tree) - is a recent continuation of the above, improving the GUI, and refactoring leading towards making a React.js version of the app. 
 
