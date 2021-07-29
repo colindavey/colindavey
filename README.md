@@ -20,7 +20,7 @@ I then began working on creating a web-based version using React in the followin
 
 [react-tic-tac-toe-ndim](https://github.com/colindavey/react-tic-tac-toe-ndim) - in the process of warping the tic-tac-toe app into a chess app, I created this NxN tic-tac-toe app. ([See it live here](https://colindavey-ndim-tic-tac-toe.netlify.app)
 
-<img src="https://github.com/colindavey/colindavey/blob/main/images/py-chess-tree.png" width="600"/>
+<img src="https://github.com/colindavey/colindavey/blob/main/images/ndim-tic-tac-toe.png" width="300"/>
 
 [react-tic-tac-toe-to-chess](https://github.com/colindavey/react-tic-tac-toe-to-chess) - continuing from the NxN tic-tac-toe app above, this is a mostly fully functional chess app. Presents a GUI, lets you make moves, only allows legal moves, the GUI includes a listing, and you can click on any move to return to the position. This has been absorbed into the chess monorepo above. 
 
