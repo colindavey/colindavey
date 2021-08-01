@@ -18,7 +18,7 @@ I then began working on creating a web-based version using React in the followin
 
 - [react-tic-tac-toe-tutorial-to-hooks](https://github.com/colindavey/react-tic-tac-toe-tutorial-to-hooks) - my refactoring of the above React tic-tac-toe tutorial, including translating it from a class-based app to a functional one using hooks. 
 
-- [react-tic-tac-toe-ndim](https://github.com/colindavey/react-tic-tac-toe-ndim) - in the process of warping the tic-tac-toe app into a chess app, I created this NxN tic-tac-toe app. (See it live [here](https://colindavey-ndim-tic-tac-toe.netlify.app))
+- [react-tic-tac-toe-ndim](https://github.com/colindavey/react-tic-tac-toe-ndim) - in the process of warping the tic-tac-toe app into a chess app, I created this NxN tic-tac-toe app. (See it live [here](https://colindavey-ndim-tic-tac-toe.netlify.app)).
 
 <img src="https://github.com/colindavey/colindavey/blob/main/images/ndim-tic-tac-toe.png" width="300"/>
 
